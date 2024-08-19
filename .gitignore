@@ -11,3 +11,7 @@ doc
 Meta
 *_cache*
 *~
+DESCRIPTION
+man/*.Rd
+*.Rproj
+.gitignore
